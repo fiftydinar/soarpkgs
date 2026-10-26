@@ -1,0 +1,18 @@
+version = "0.9.0"
+date    = "2026-10-22T17:16:14Z"
+
+[url]
+x86_64-linux  = "https://github.com/pkgforge-dev/DeckCraft-AppImage/releases/download/0.9.0%402026-10-22_1792689369/DeckCraft-0.9.0-anylinux-x86_64.AppImage"
+aarch64-linux = "https://github.com/pkgforge-dev/DeckCraft-AppImage/releases/download/0.9.0%402026-10-22_1792689369/DeckCraft-0.9.0-anylinux-aarch64.AppImage"
+
+[blake3]
+x86_64-linux  = "633ebd9febfef8820e52c6c20d76ca8c8e6f598ea2646e47783daa74fff31e61"
+aarch64-linux = "4dffcc5305731aaea49b27a1bf8b53ab8b171e2a147910a42d01b0438d4ae142"
+
+[sha256]
+x86_64-linux  = "de408023c8997cfe9402ef65ab7dee022861dfd036e7fc395f9ec7c1aa69a281"
+aarch64-linux = "7013fc565f4ca0d77cf11b3cb76e099598ce2772cec6a556201444ef8ba0224c"
+
+[size]
+x86_64-linux  = 33481016
+aarch64-linux = 31597933

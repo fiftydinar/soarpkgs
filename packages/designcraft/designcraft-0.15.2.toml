@@ -1,0 +1,18 @@
+version = "0.15.2"
+date    = "2026-11-01T18:22:44Z"
+
+[url]
+x86_64-linux  = "https://github.com/pkgforge-dev/DesignCraft-AppImage/releases/download/0.15.2%402026-11-01_1793557362/DesignCraft-0.15.2-anylinux-x86_64.AppImage"
+aarch64-linux = "https://github.com/pkgforge-dev/DesignCraft-AppImage/releases/download/0.15.2%402026-11-01_1793557362/DesignCraft-0.15.2-anylinux-aarch64.AppImage"
+
+[blake3]
+x86_64-linux  = "0d4fc0373a6645e678d1e512e377e60a6a207915dc77464ee69caac39df71099"
+aarch64-linux = "c1dfb3c579b4c20b7ce6f8b97e421c1dfdc025f9854c7e96bf153b4fd28c0a1b"
+
+[sha256]
+x86_64-linux  = "72a24288696fabf3eae44d906ccbb02754cada27ffd7f406ed56b8af1f42b826"
+aarch64-linux = "ba4dadbbd17733626133e47e7c1a9050c8f7519e6edbf207bcac02bc9b8e712b"
+
+[size]
+x86_64-linux  = 48623532
+aarch64-linux = 43238562
